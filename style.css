@@ -1,0 +1,44 @@
+*{
+    background: slategray;
+}
+.header{
+    /* left: 25%; */
+    text-align: center;
+    color: orange;
+    position: relative;
+    
+}
+
+.list-group{
+    display: inline;
+    margin-right: 1000px;
+    position: relative;
+}
+
+.scrollspy-example{
+    display: inline;
+}
+
+#list-item-1{
+    color: saddlebrown;
+}
+
+#list-item-2{
+    color: saddlebrown;
+}
+
+#list-item-3{
+    color: saddlebrown;
+}
+
+#list-item-4{
+    color: saddlebrown;
+}
+
+p{
+    color: lightgoldenrodyellow;
+}
+
+li{
+    color: lightgoldenrodyellow;
+}
